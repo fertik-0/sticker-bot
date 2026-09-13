@@ -5,7 +5,7 @@ from collections import defaultdict
 from aiogram import Bot, Dispatcher, F, types
 
 # Бот безопасно забирает токен из настроек сервера
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("7464632988:AAHjuEvu_tU1SZDsSg5kbgthSnbKbM2VgvQ")
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
